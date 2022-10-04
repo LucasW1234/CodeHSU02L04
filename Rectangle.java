@@ -27,7 +27,6 @@ public class Rectangle
         System.out.println(area);
     }
     
-    
     /**
      * This is the toString method. It returns a String
      * representation of the object. 
